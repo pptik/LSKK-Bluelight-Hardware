@@ -1,0 +1,10 @@
+//Gas Sensor
+{
+   "serialnumber":"812f25e0-7a52-4388-b027-67ee09150b48",
+   "mac":"2C:3A:E8:24:2F:FE",
+   "type":"DI",
+   "qty":"1",
+   "name":"LSKK-BL-GAS",
+   "version":"1.0",
+   "minor":"1.a"
+}
